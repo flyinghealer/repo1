@@ -23,7 +23,7 @@ public class HelloWorld {
 	}
 	
 	public static int testuipath() {
-		return 11;	
+		return 11222;	
 	}
 	public int testuipath2(int a,int b) {
 		return a+b;	
